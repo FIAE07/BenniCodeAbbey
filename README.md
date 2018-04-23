@@ -56,22 +56,22 @@
    </tr>
    <tr>
    <td>41</td>
-   <td></td>
+   <td>medianOfThree</td>
    <td></td>
    </tr>
    <tr>
    <td>28</td>
-   <td></td>
+   <td>Body Mass Index</td>
    <td></td>
    </tr>
    <tr>
    <td>8</td>
-   <td></td>
+   <td>Arithmetic Progression</td>
    <td></td>
    </tr>
    <tr>
    <td>13</td>
-   <td></td>
+   <td>Weighted Sum of Digits</td>
    <td></td>
    </tr>
    
