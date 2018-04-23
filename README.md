@@ -5,74 +5,74 @@
       <td><b>Lösungsansatz</b></td>
    </tr>
    <tr>
-   <td>1</td>
-   <td>A + B</td>
-   <td>Iterativ</td>
+      <td>1</td>
+      <td>A + B</td>
+      <td>Iterativ</td>
    </tr>
    <tr>
-   <td>2</td>
-   <td>sumInLoop</td>
-   <td>Iterativ</td>
+      <td>2</td>
+      <td>sumInLoop</td>
+      <td>Iterativ</td>
    </tr>
    <tr>
-   <td>3</td>
-   <td>sumsInLoop</td>
-   <td>Iterativ</td>
+      <td>3</td>
+      <td>sumsInLoop</td>
+      <td>Iterativ</td>
    </tr>
    <tr>
-   <td>4</td>
-   <td>minimumOfTwo</td>
-   <td>Iterativ</td>
+      <td>4</td>
+      <td>minimumOfTwo</td>
+      <td>Iterativ</td>
    </tr>
    <tr>
-   <td>5</td>
-   <td>minimumOfThree</td>
-   <td>Iterativ</td>
+      <td>5</td>
+      <td>minimumOfThree</td>
+      <td>Iterativ</td>
    </tr>
    <tr>
-   <td>15</td>
-   <td>maximumOfArray</td>
-   <td>Iterativ</td>
+      <td>15</td>
+      <td>maximumOfArray</td>
+      <td>Iterativ</td>
    </tr>
    <tr>
-   <td>6</td>
-   <td>Rounding</td>
-   <td></td>
+      <td>6</td>
+      <td>Rounding</td>
+      <td></td>
    </tr>
    <tr>
-   <td>7</td>
-   <td>Fahrenheit to Celsius</td>
-   <td></td>
+      <td>7</td>
+      <td>Fahrenheit to Celsius</td>
+   <td>C = (F - 32) * 5/9?? EZ! </td>
    </tr>
    <tr>
-   <td>20</td>
-   <td>vowelCount</td>
-   <td><b>OO</b></td>
+      <td>20</td>
+      <td>vowelCount</td>
+      <td><b>OO</b></td>
    </tr>
    <tr>
-   <td>11</td>
-   <td>sumOfDigits</td>
-   <td><b>OO</b></td>
+      <td>11</td>
+      <td>sumOfDigits</td>
+      <td><b>OO</b></td>
    </tr>
    <tr>
-   <td>41</td>
-   <td>medianOfThree</td>
-   <td></td>
+      <td>41</td>
+      <td>medianOfThree</td>
+      <td></td>
    </tr>
    <tr>
-   <td>28</td>
-   <td>Body Mass Index</td>
-   <td></td>
+      <td>28</td>
+      <td>Body Mass Index</td>
+      <td></td>
    </tr>
    <tr>
-   <td>8</td>
-   <td>Arithmetic Progression</td>
-   <td></td>
+      <td>8</td>
+      <td>Arithmetic Progression</td>
+      <td></td>
    </tr>
    <tr>
-   <td>13</td>
-   <td>Weighted Sum of Digits</td>
-   <td></td>
+      <td>13</td>
+      <td>Weighted Sum of Digits</td>
+      <td></td>
    </tr>
    
 </table>
