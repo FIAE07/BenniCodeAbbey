@@ -22,7 +22,7 @@ ID    Name                    Lösungsansatz
 
 20	  Vowel Count             <b>OO</b>
 
-11	  Sum of digits            
+11	  Sum of digits           <b>OO</b> 
 
 41	  Median of Three
 
