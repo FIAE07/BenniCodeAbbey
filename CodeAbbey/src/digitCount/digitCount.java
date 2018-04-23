@@ -21,33 +21,33 @@ class prime  {
 	}
 	
 	
-	public void setValue ()  {
-		Scanner scan = new Scanner(System.in);
-		
-		System.out.println("Bitte Wert eingeben: ");
-		zahl = scan.nextInt();
-		scan.close();
+	public void setValue (int ziffern)  {
+		if (ziffern >= 0)  {
+			zahl = ziffern;
+		} else {
+			System.out.println("Zahl kleiner Null");	
 		}
 }
 
-
+}
 
 
 
 public class digitCount {
 
 	public static void main(String[] args) {
-		int anz;
+		// int anz;
+		
 		Scanner scan = new Scanner(System.in);
 		
 		prime quer = new prime();
 		
-		System.out.println("Wie oft?");
-		anz = scan.nextInt();
-		quer.setValue();
+		// System.out.println("Wie oft?");
+		// anz = scan.nextInt();
+		
+		System.out.println("Zahl: ");
+		quer.setValue(scan.nextInt());
 		System.out.println("Quersumme: " + quer.querSumme());
-		
-		
 		scan.close();
 		
 
