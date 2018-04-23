@@ -1,4 +1,4 @@
-<p text-align=center>Code Abbey - Übungsaufgaben</p>
+<h1>Code Abbey - Übungsaufgaben</h1>
 
 <table>
    <tr>
