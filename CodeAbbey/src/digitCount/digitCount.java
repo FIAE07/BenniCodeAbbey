@@ -21,14 +21,13 @@ class prime  {
 	}
 	
 	
-	public int setValue ()  {
+	public void setValue ()  {
 		Scanner scan = new Scanner(System.in);
 		
 		System.out.println("Bitte Wert eingeben: ");
 		zahl = scan.nextInt();
 		scan.close();
-		return zahl;
-	}
+		}
 }
 
 
