@@ -1,7 +1,5 @@
 package vowelCount;
 
-import java.util.Scanner;
-
 /********************************************************************************/
 
 class stringGeraet  {
