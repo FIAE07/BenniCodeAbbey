@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 class prime  {
-	int zahl;
+	private int zahl;
 	
 	public int querSumme ()  {
 		int  rest, vorne;
