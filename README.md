@@ -9,32 +9,32 @@
    <tr>
       <td>1</td>
       <td>A + B</td>
-      <td>Iterativ</td>
+      <td>Prozedural</td>
    </tr>
    <tr>
       <td>2</td>
       <td>sumInLoop</td>
-      <td>Iterativ</td>
+      <td>Prozedural</td>
    </tr>
    <tr>
       <td>3</td>
       <td>sumsInLoop</td>
-      <td>Iterativ</td>
+      <td>Prozedural</td>
    </tr>
    <tr>
       <td>4</td>
       <td>minimumOfTwo</td>
-      <td>Iterativ</td>
+      <td>Prozedural</td>
    </tr>
    <tr>
       <td>5</td>
       <td>minimumOfThree</td>
-      <td>Iterativ</td>
+      <td>Prozedural</td>
    </tr>
    <tr>
       <td>15</td>
       <td>maximumOfArray</td>
-      <td>Iterativ</td>
+      <td>Prozedural</td>
    </tr>
    <tr>
       <td>6</td>
