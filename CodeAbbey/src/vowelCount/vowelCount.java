@@ -5,18 +5,21 @@ import java.util.Scanner;
 /********************************************************************************/
 
 class stringGeraet  {
-	String value;
+	private String value;
 	
-	public void setValue ()  {
-		System.out.println("Bitte String eingeben: ");
-		Scanner scan = new Scanner(System.in);
-		value = scan.next();
-		scan.close();
+	//setter
+	
+	public void setValue (String str)  {
+		value = str;
 	}
+	
+	//getter
 	
 	public String getValue()  {
 		return value;
 	}
+	
+	//Zählmethode
 	
 	public int vowelCount()  {
 		
@@ -57,9 +60,10 @@ class stringGeraet  {
 public class vowelCount {
 
 	public static void main(String[] args) {
-				
+		String b = "hfaiuwehiu";
+		
 		stringGeraet a = new stringGeraet();
-		a.setValue();
+		a.setValue(b);
 		System.out.println("Anzahl der Vokale: " + a.vowelCount());
 		
 		
