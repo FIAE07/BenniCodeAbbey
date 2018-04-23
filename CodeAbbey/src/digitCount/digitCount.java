@@ -12,22 +12,25 @@ class prime  {
 		rest = 0;
 		vorne = zahl;
 		
-		while (vorne != 0)  {
-			rest += (vorne % 10);
-			vorne /= 10;
+		if (vorne >= 0)  {
+			while (vorne > 0)  {
+				rest += (vorne % 10);
+				vorne /= 10;
+			}
+			return rest;	
+		} else {
+			System.out.println("FEHLER: Parameter kleiner als 0.");
+			return 404;
 			}
 		
-		return rest;
+		
+		
 	}
 	
 	
 	public void setValue (int ziffern)  {
-		if (ziffern >= 0)  {
-			zahl = ziffern;
-		} else {
-			System.out.println("Zahl kleiner Null");	
+		zahl = ziffern;
 		}
-}
 
 }
 

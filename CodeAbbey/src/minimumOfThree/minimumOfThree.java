@@ -7,18 +7,19 @@ import java.util.Scanner;
 
 class tripleArray  {
 	
-	int [] values = new int[3];
+	private int [] values = new int[3];
 	
-	public int[] setValues()  {
+	// setter
+	
+	public void setValues(int[] a)  {
 		Scanner scan = new Scanner(System.in);
 		for (int i = 0; i < 3; i++)  {
-			System.out.println("Wert " + (i+1) + ": ");
-			values[i] = scan.nextInt();
+			values[i] = a[i];
 		}
 		scan.close();
-		return values;
 	}
 	
+	//liefere Minimum
 		
 	public int getMin()  {
 		int min = values[0];
@@ -39,10 +40,9 @@ public class minimumOfThree {
 
 	public static void main(String[] args) {
 		int mini;
-		
+		int[] werte = new int[3];
 		tripleArray a = new tripleArray();
-		a.setValues();
-		a.values[0] = 1;
+		a.setValues(werte);
 		mini = a.getMin();
 		
 		
