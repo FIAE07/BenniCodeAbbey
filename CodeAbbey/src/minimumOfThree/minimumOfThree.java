@@ -40,7 +40,8 @@ public class minimumOfThree {
 
 	public static void main(String[] args) {
 		int mini;
-		int[] werte = new int[3];
+		int[] werte = {7, 2, 3};
+		
 		tripleArray a = new tripleArray();
 		a.setValues(werte);
 		mini = a.getMin();
