@@ -1,36 +1,78 @@
-# Code Abbey Übungsaufgaben
-
-
-
-ID    Name                    Lösungsansatz
-
-1   	Sum "A+B"               <b>Iterativ</b>
-
-2	    Sum in Loop	            <b>Iterativ</b>
-
-3	    Sums in Loop	          <b>Iterativ</b>
-
-4	    Minimum of Two          <b>Iterativ</b>
-
-5	    Minimum of Three        <b>OO</b>
-
-15	  Maximum of array        <b>Iterativ</b>
-
-6	    Rounding
-
-7	    Fahrenheit to Celsius
-
-20	  Vowel Count             <b>OO</b>
-
-11	  Sum of digits           <b>OO</b> 
-
-41	  Median of Three
-
-28	  Body Mass Index
-
-8	    Arithmetic Progression
-
-13	  Weighted sum of digits
-
-
-http://download.eclipse.org/egit/updates/
+<table>
+   <tr>
+      <td><b>ID</b></td>
+      <td><b>Name</b></td>
+      <td><b>Lösungsansatz</b></td>
+   </tr>
+   <tr>
+   <td>1</td>
+   <td>A + B</td>
+   <td>Iterativ</td>
+   </tr>
+   <tr>
+   <td>2</td>
+   <td>sumInLoop</td>
+   <td>Iterativ</td>
+   </tr>
+   <tr>
+   <td>3</td>
+   <td>sumsInLoop</td>
+   <td>Iterativ</td>
+   </tr>
+   <tr>
+   <td>4</td>
+   <td>minimumOfTwo</td>
+   <td>Iterativ</td>
+   </tr>
+   <tr>
+   <td>5</td>
+   <td>minimumOfThree</td>
+   <td>Iterativ</td>
+   </tr>
+   <tr>
+   <td>15</td>
+   <td>maximumOfArray</td>
+   <td>Iterativ</td>
+   </tr>
+   <tr>
+   <td>6</td>
+   <td>Rounding</td>
+   <td></td>
+   </tr>
+   <tr>
+   <td>7</td>
+   <td>Fahrenheit to Celsius</td>
+   <td></td>
+   </tr>
+   <tr>
+   <td>20</td>
+   <td>vowelCount</td>
+   <td>OO</td>
+   </tr>
+   <tr>
+   <td>11</td>
+   <td>sumOfDigits</td>
+   <td>OO</td>
+   </tr>
+   <tr>
+   <td>41</td>
+   <td></td>
+   <td></td>
+   </tr>
+   <tr>
+   <td>28</td>
+   <td></td>
+   <td></td>
+   </tr>
+   <tr>
+   <td>8</td>
+   <td></td>
+   <td></td>
+   </tr>
+   <tr>
+   <td>13</td>
+   <td></td>
+   <td></td>
+   </tr>
+   
+</table>
