@@ -47,12 +47,12 @@
    <tr>
    <td>20</td>
    <td>vowelCount</td>
-   <td>OO</td>
+   <td><b>OO</b></td>
    </tr>
    <tr>
    <td>11</td>
    <td>sumOfDigits</td>
-   <td>OO</td>
+   <td><b>OO</b></td>
    </tr>
    <tr>
    <td>41</td>
