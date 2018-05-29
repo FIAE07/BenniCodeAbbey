@@ -22,9 +22,6 @@ class prime  {
 			System.out.println("FEHLER: Parameter kleiner als 0.");
 			return 404;
 			}
-		
-		
-		
 	}
 	
 	
@@ -32,7 +29,10 @@ class prime  {
 		zahl = ziffern;
 		}
 
-}
+	public int getValue ()  {
+		return zahl;
+		}
+    }
 
 
 
