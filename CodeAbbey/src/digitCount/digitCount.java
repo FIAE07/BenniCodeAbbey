@@ -39,15 +39,11 @@ class prime  {
 public class digitCount {
 
 	public static void main(String[] args) {
-		// int anz;
 		
 		Scanner scan = new Scanner(System.in);
 		
 		prime quer = new prime();
-		
-		// System.out.println("Wie oft?");
-		// anz = scan.nextInt();
-		
+				
 		System.out.println("Zahl: ");
 		quer.setValue(scan.nextInt());
 		System.out.println("Quersumme: " + quer.querSumme());
